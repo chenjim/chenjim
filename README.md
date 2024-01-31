@@ -1,5 +1,5 @@
 
-[![CSDN博客][csdnsvg]][csdn] [![简书博客][jianshusvg]][jianshu] [![Gitee][giteesvg]][gitee] [![Github][githubsvg]][github]  [![ZhuYe][zhuyesvg]][zhuye]  
+  [![ZhuYe][zhuyesvg]][zhuye] [![CSDN博客][csdnsvg]][csdn] [![简书博客][jianshusvg]][jianshu] [![Gitee][giteesvg]][gitee] [![Github][githubsvg]][github]
 
 ![chenjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjim&show_icons=true)    
 
