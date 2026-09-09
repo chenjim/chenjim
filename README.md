@@ -1,7 +1,7 @@
 
 [![ZhuYe][zhuyesvg]][zhuye] [![CSDN博客][csdnsvg]][csdn] [![简书博客][jianshusvg]][jianshu] [![Gitee][giteesvg]][gitee] [![Github][githubsvg]][github]
 
-![chenjim's GitHub stats](https://github-readme-stats-git-main-chenjimcom-5723s-projects.vercel.app/api?username=chenjim&show_icons=true)    
+![chenjim's GitHub stats](https://github-readme-stats-ruby-five-88.vercel.app/api?username=chenjim&show_icons=true)    
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjim)](https://github.com/anuraghazra/github-readme-stats) -->
 
